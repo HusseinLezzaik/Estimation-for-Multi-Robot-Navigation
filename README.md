@@ -21,7 +21,8 @@ Read `ARS_04_miniproject_A20.pdf` for more details about the problem we solved i
 
 You can find more details about our approach, equations, and results in `FINAL_REPORT.pdf`.
 
-## Maintainers
+## Contact
+If you have any question, or if anything of the above is not working, don't hestitate to contact us!
 * [Hussein Lezzaik](www.husseinlezzaik.com)
 * [Hasan Kassem](https://www.linkedin.com/in/hasan-kassem-02625119b/)
 * [Ahmad Shour](https://www.linkedin.com/in/ahmad-shour-1531371a8/)
